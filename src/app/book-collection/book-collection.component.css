@@ -1,0 +1,40 @@
+#add_book_button {
+  width: 100px;
+  height: 100px;
+  transform: translateX(400px);
+}
+#add_author_button {
+  width: 100px;
+  height: 100px;
+  transform: translateX(500px);
+}
+#deleteAuthor {
+  float: right;
+  margin: 10px;
+}
+#updateAuthor {
+  float: right;
+  margin: 10px;
+}
+#deletebook {
+  height: 37px;
+  transform: translateX(150px);
+}
+.card-title {
+  display: flex;
+}
+#updatebook {
+  height: 37px;
+  transform: translateX(200px);
+}
+#delete_icon {
+  height: 10px;
+}
+#accordian {
+  transform: translateX(250px);
+}
+
+#card-container {
+  display: flex;
+  flex-direction: column;
+}

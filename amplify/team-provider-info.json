@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-asses5search-dev-231956-authRole",
+      "UnauthRoleArn": "arn:aws:iam::535256830685:role/amplify-asses5search-dev-231956-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::535256830685:role/amplify-asses5search-dev-231956-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-asses5search-dev-231956-deployment",
+      "UnauthRoleName": "amplify-asses5search-dev-231956-unauthRole",
+      "StackName": "amplify-asses5search-dev-231956",
+      "StackId": "arn:aws:cloudformation:ap-south-1:535256830685:stack/amplify-asses5search-dev-231956/4e393d80-c5b5-11ed-b6fa-0aa371e27a74",
+      "AmplifyAppId": "d3cs8kktsuml5b"
+    },
+    "categories": {
+      "api": {
+        "asses5search": {}
+      }
+    }
+  }
+}

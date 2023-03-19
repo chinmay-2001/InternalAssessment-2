@@ -1,0 +1,38 @@
+#search_field {
+  width: 300px;
+}
+
+#search_filter_field {
+  display: flex;
+  margin-top: 20px;
+}
+#filter-div {
+  margin-left: 20px;
+}
+#search-button {
+  height: 40px;
+  width: 100px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+#deleteBook {
+  height: 37px;
+  transform: translateX(150px);
+}
+.card-title {
+  display: flex;
+}
+#updatebook {
+  height: 37px;
+  transform: translateX(200px);
+}
+#delete_icon {
+  height: 10px;
+}
+#accordian {
+  transform: translateX(250px);
+}
+#card-container {
+  display: flex;
+  flex-direction: row;
+}
